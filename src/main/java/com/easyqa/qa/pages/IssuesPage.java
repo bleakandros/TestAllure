@@ -34,7 +34,7 @@ public class IssuesPage {
     @FindBy(xpath = "//label[.='Medium']")
     public SelenideElement issuePriorityMedium;
 
-    @FindBy(xpath = "//label[.='High']")
+    @FindBy(xpath = "//label[.='Hhhhhhhhhhhhigh']")
     public SelenideElement issuePriorityHigh;
 
     @FindBy(xpath = "//label[.='Critical']")
